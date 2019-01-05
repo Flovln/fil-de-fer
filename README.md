@@ -22,9 +22,8 @@ Single linked list
 
 ## Preview  
 
-### 42
+### 42  
 <img align="left" src="https://github.com/Flovln/fil-de-fer/blob/master/screenshots/fdf-42.png" width="75%" />  
 
-### Pyramid
-
+### Pyramid  
 <img align="left" src="https://github.com/Flovln/fil-de-fer/blob/master/screenshots/fdf-pyra.png" width="75%" />  
